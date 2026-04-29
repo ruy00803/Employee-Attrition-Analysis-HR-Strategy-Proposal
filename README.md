@@ -6,7 +6,7 @@
 
 
 ## 📑 成果物
-: 経営層向けのプレゼン資料[cite: 5]
+: 経営層向けのプレゼン資料[https://github.com/ruy00803/Employee-Attrition-Analysis-HR-Strategy-Proposal/blob/main/%E4%BC%81%E6%A5%AD%E3%81%AE%E8%AA%B2%E9%A1%8C%E5%88%86%E6%9E%90%E3%81%A8%E6%8F%90%E6%A1%88.pdf]
 
 : 分析のソースコード[cite: 4]
 

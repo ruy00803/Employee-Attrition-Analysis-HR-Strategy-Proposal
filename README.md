@@ -1,4 +1,4 @@
-# Employee Attrition Analysis & HR Reform Strategy
+# Employee-Attrition-Analysis-HR-Strategy-Proposal
 
 
 ## 📋 プロジェクト概要 
